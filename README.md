@@ -80,6 +80,14 @@ Multi-AI workflow for Claude Code
 [![Forks](https://img.shields.io/github/forks/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/claude-codex/network/members)
 [![Issues](https://img.shields.io/github/issues/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/claude-codex/issues)
 
+### 📜 [vcp](https://github.com/Z-M-Huang/vcp)
+A protocol for AI coding assistants to produce maintainable, secure, and architecturally sound code — instead of the fast-but-fragile output that's becoming the industry default.
+
+[![Stars](https://img.shields.io/github/stars/Z-M-Huang/vcp?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/vcp/stargazers)
+[![Forks](https://img.shields.io/github/forks/Z-M-Huang/vcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/vcp/network/members)
+[![Issues](https://img.shields.io/github/issues/Z-M-Huang/vcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/vcp/issues)
+
+
 ### 📜 [golden-CLAUDE.md](https://github.com/Z-M-Huang/golden-CLAUDE.md)
 Golden rules for Claude Code CLAUDE.md
 
