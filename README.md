@@ -73,19 +73,19 @@ I'm **Zhirong (Mark) Huang**, a Senior Software Engineer and Fullstack Developer
 
 ## 🔥 Current Projects
 
-### 🧠 [cc-obsidian-mem](https://github.com/Z-M-Huang/cc-obsidian-mem)
-Claude Code memory system with Obsidian integration
-
-[![Stars](https://img.shields.io/github/stars/Z-M-Huang/cc-obsidian-mem?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/cc-obsidian-mem/stargazers)
-[![Forks](https://img.shields.io/github/forks/Z-M-Huang/cc-obsidian-mem?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/cc-obsidian-mem/network/members)
-[![Issues](https://img.shields.io/github/issues/Z-M-Huang/cc-obsidian-mem?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/cc-obsidian-mem/issues)
-
 ### 🤖 [claude-codex](https://github.com/Z-M-Huang/claude-codex)
 Multi-AI workflow for Claude Code
 
 [![Stars](https://img.shields.io/github/stars/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/claude-codex/stargazers)
 [![Forks](https://img.shields.io/github/forks/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/claude-codex/network/members)
 [![Issues](https://img.shields.io/github/issues/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/claude-codex/issues)
+
+### 📜 [golden-CLAUDE.md](https://github.com/Z-M-Huang/golden-CLAUDE.md)
+Golden rules for Claude Code CLAUDE.md
+
+[![Stars](https://img.shields.io/github/stars/Z-M-Huang/golden-CLAUDE.md?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/golden-CLAUDE.md/stargazers)
+[![Forks](https://img.shields.io/github/forks/Z-M-Huang/golden-CLAUDE.md?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/golden-CLAUDE.md/network/members)
+[![Issues](https://img.shields.io/github/issues/Z-M-Huang/golden-CLAUDE.md?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/golden-CLAUDE.md/issues)
 
 ---
 
