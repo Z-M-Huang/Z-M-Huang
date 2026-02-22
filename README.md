@@ -131,7 +131,7 @@ Golden rules for Claude Code CLAUDE.md
 
 *Open to collaborations, discussions about AI tools, Go development, or just a friendly chat about tech!*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zhirong-mark-huang-1a96671a0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zhirong-huang-1a96671a0/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x)](https://x.com/zh_code)
 
 </div>
