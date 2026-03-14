@@ -73,20 +73,19 @@ I'm **Zhirong (Mark) Huang**, a Senior Software Engineer and Fullstack Developer
 
 ## 🔥 Current Projects
 
-### 🤖 [claude-codex](https://github.com/Z-M-Huang/claude-codex)
-Multi-AI workflow for Claude Code
-
-[![Stars](https://img.shields.io/github/stars/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/claude-codex/stargazers)
-[![Forks](https://img.shields.io/github/forks/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/claude-codex/network/members)
-[![Issues](https://img.shields.io/github/issues/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/claude-codex/issues)
-
-### 📜 [vcp](https://github.com/Z-M-Huang/vcp)
+### 💻 [vcp](https://github.com/Z-M-Huang/vcp)
 A protocol for AI coding assistants to produce maintainable, secure, and architecturally sound code — instead of the fast-but-fragile output that's becoming the industry default.
 
 [![Stars](https://img.shields.io/github/stars/Z-M-Huang/vcp?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/vcp/stargazers)
 [![Forks](https://img.shields.io/github/forks/Z-M-Huang/vcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/vcp/network/members)
 [![Issues](https://img.shields.io/github/issues/Z-M-Huang/vcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/vcp/issues)
 
+### 🛜 [git-doc-mcp](https://github.com/Z-M-Huang/git-doc-mcp)
+Your repository documentation can be an MCP AI can use.
+
+[![Stars](https://img.shields.io/github/stars/Z-M-Huang/git-doc-mcp?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/git-doc-mcp/stargazers)
+[![Forks](https://img.shields.io/github/forks/Z-M-Huang/git-doc-mcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/git-doc-mcp/network/members)
+[![Issues](https://img.shields.io/github/issues/Z-M-Huang/git-doc-mcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/git-doc-mcp/issues)
 
 ### 📜 [golden-CLAUDE.md](https://github.com/Z-M-Huang/golden-CLAUDE.md)
 Golden rules for Claude Code CLAUDE.md
@@ -94,6 +93,13 @@ Golden rules for Claude Code CLAUDE.md
 [![Stars](https://img.shields.io/github/stars/Z-M-Huang/golden-CLAUDE.md?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/golden-CLAUDE.md/stargazers)
 [![Forks](https://img.shields.io/github/forks/Z-M-Huang/golden-CLAUDE.md?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/golden-CLAUDE.md/network/members)
 [![Issues](https://img.shields.io/github/issues/Z-M-Huang/golden-CLAUDE.md?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/golden-CLAUDE.md/issues)
+
+### 🤖 [claude-codex](https://github.com/Z-M-Huang/claude-codex)
+Multi-AI workflow for Claude Code
+
+[![Stars](https://img.shields.io/github/stars/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/claude-codex/stargazers)
+[![Forks](https://img.shields.io/github/forks/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/claude-codex/network/members)
+[![Issues](https://img.shields.io/github/issues/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/claude-codex/issues)
 
 ---
 
