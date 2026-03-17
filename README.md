@@ -22,6 +22,12 @@ I'm **Zhirong (Mark) Huang**, a Senior Software Engineer and Fullstack Developer
 - 🛠️ Experienced in setting up ARC in Kubernetes and managing CI/CD pipelines
 - 🧠 Focused on continuous self-improvement in AI, technology, emotional intelligence, and critical thinking
 
+<p align="center">
+  <a href="https://github.com/Z-M-Huang/cc-proficiency">
+    <img src="https://gist.githubusercontent.com/Z-M-Huang/2717fa94690c459d5093650c87f49868/raw/cc-proficiency.svg" alt="Claude Code Proficiency" />
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -79,6 +85,13 @@ A protocol for AI coding assistants to produce maintainable, secure, and archite
 [![Stars](https://img.shields.io/github/stars/Z-M-Huang/vcp?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/vcp/stargazers)
 [![Forks](https://img.shields.io/github/forks/Z-M-Huang/vcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/vcp/network/members)
 [![Issues](https://img.shields.io/github/issues/Z-M-Huang/vcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/vcp/issues)
+
+### 📊 [cc-proficiency](https://github.com/Z-M-Huang/cc-proficiency)
+Generate a proficiency badge for your Claude Code usage — rule-based scoring engine with 53 pattern-matching rules across 5 CCA-aligned domains.
+
+[![Stars](https://img.shields.io/github/stars/Z-M-Huang/cc-proficiency?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/cc-proficiency/stargazers)
+[![Forks](https://img.shields.io/github/forks/Z-M-Huang/cc-proficiency?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/cc-proficiency/network/members)
+[![Issues](https://img.shields.io/github/issues/Z-M-Huang/cc-proficiency?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/cc-proficiency/issues)
 
 ### 🛜 [git-doc-mcp](https://github.com/Z-M-Huang/git-doc-mcp)
 Your repository documentation can be an MCP AI can use.
