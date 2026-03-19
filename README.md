@@ -24,7 +24,7 @@ I'm **Zhirong (Mark) Huang**, a Senior Software Engineer and Fullstack Developer
 
 <p align="center">
   <a href="https://github.com/Z-M-Huang/cc-proficiency">
-    <img src="https://gist.githubusercontent.com/Z-M-Huang/2717fa94690c459d5093650c87f49868/raw/cc-proficiency.svg" alt="Claude Code Proficiency" />
+    <img src="https://gist.githubusercontent.com/Z-M-Huang/2717fa94690c459d5093650c87f49868/raw/cc-proficiency-animated.svg" alt="Claude Code Proficiency" />
   </a>
 </p>
 
