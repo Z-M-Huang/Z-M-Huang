@@ -3,8 +3,9 @@
 <!-- Typing Animation - Replace with your custom GIF -->
 ![Typing Animation](./assets/headline.gif)
 
-*Always learning, always improving, never stop.*
+*AI Architect | Claude Certified Architect, Foundations | Senior Software Engineer*
 
+[![Website](https://img.shields.io/badge/Website-markhuang.ai-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://markhuang.ai/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhirong-mark-huang-1a96671a0/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/markhuang_ai)
 
@@ -14,13 +15,14 @@
 
 ## 👨‍💻 About Me
 
-I'm **Zhirong (Mark) Huang**, a Senior Software Engineer and Fullstack Developer passionate about building high-availability systems and driving innovation through AI-assisted development.
+I'm **Mark(Zhirong) Huang**, an **AI Architect** and Senior Software Engineer focused on turning LLMs, agentic workflows, and distributed systems into production-grade software.
 
-- 🚀 Currently leading AI coding assistant adoption (Claude Code, Codex, Roo Code) for my team
-- 💻 Started my journey with **.NET**, now dedicated to **Go** development
-- 🌐 Specialized in web development, ecommerce payment platform integrations, and high-availability systems
-- 🛠️ Experienced in setting up ARC in Kubernetes and managing CI/CD pipelines
-- 🧠 Focused on continuous self-improvement in AI, technology, emotional intelligence, and critical thinking
+- 🏅 **Claude Certified Architect, Foundations**
+- 🧭 Leading AI coding assistant adoption with Claude Code, Codex, Roo Code, and multi-AI review workflows
+- 🧱 Building security-first AI architecture patterns through VCP, standards-driven guardrails, and UAT gates
+- ⚙️ Go-focused backend engineer with .NET roots, distributed systems experience, Kubernetes, and CI/CD ownership
+- 🌐 Experienced in web platforms, ecommerce payment integrations, and high-availability production systems
+- ✍️ Writing about AI architecture, practical LLM adoption, and software engineering at [markhuang.ai](https://markhuang.ai/)
 
 <p align="center">
   <a href="https://github.com/Z-M-Huang/cc-proficiency">
@@ -30,7 +32,25 @@ I'm **Zhirong (Mark) Huang**, a Senior Software Engineer and Fullstack Developer
 
 ---
 
+## 🧭 AI Architecture Focus
+
+- **Production Claude systems** - Model selection, tool boundaries, MCP integration, evals, observability, and failure-mode analysis
+- **Agentic engineering workflows** - Claude Code, Codex, Roo Code, multi-AI review loops, and UAT-driven delivery
+- **Developer-platform automation** - Repository-aware AI tooling, documentation-as-context, and workflow orchestration
+- **Security-first AI delivery** - VCP standards, prompt discipline, reviewable guardrails, and maintainable AI-generated code
+
+---
+
 ## 🛠️ Tech Stack
+
+### AI & Architecture
+<p>
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-111111?style=for-the-badge" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Codex-0A7C66?style=for-the-badge" alt="Codex"/>
+  <img src="https://img.shields.io/badge/MCP-5B5BD6?style=for-the-badge" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/Agentic%20Workflows-6E56CF?style=for-the-badge" alt="Agentic Workflows"/>
+</p>
 
 ### Languages
 <p>
@@ -80,35 +100,35 @@ I'm **Zhirong (Mark) Huang**, a Senior Software Engineer and Fullstack Developer
 ## 🔥 Current Projects
 
 ### 💻 [vcp](https://github.com/Z-M-Huang/vcp)
-A protocol for AI coding assistants to produce maintainable, secure, and architecturally sound code — instead of the fast-but-fragile output that's becoming the industry default.
+A security-first protocol for AI coding assistants to produce maintainable, reviewable, and architecturally sound code instead of fast-but-fragile output.
 
 [![Stars](https://img.shields.io/github/stars/Z-M-Huang/vcp?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/vcp/stargazers)
 [![Forks](https://img.shields.io/github/forks/Z-M-Huang/vcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/vcp/network/members)
 [![Issues](https://img.shields.io/github/issues/Z-M-Huang/vcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/vcp/issues)
 
 ### 📊 [cc-proficiency](https://github.com/Z-M-Huang/cc-proficiency)
-Generate a proficiency badge for your Claude Code usage — rule-based scoring engine with 53 pattern-matching rules across 5 CCA-aligned domains.
+Generate a proficiency badge for Claude Code usage with a rule-based scoring engine across 5 Claude Certified Architect-aligned domains.
 
 [![Stars](https://img.shields.io/github/stars/Z-M-Huang/cc-proficiency?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/cc-proficiency/stargazers)
 [![Forks](https://img.shields.io/github/forks/Z-M-Huang/cc-proficiency?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/cc-proficiency/network/members)
 [![Issues](https://img.shields.io/github/issues/Z-M-Huang/cc-proficiency?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/cc-proficiency/issues)
 
 ### 🛜 [git-doc-mcp](https://github.com/Z-M-Huang/git-doc-mcp)
-Your repository documentation can be an MCP AI can use.
+Make repository documentation available through MCP so AI assistants can use project knowledge directly.
 
 [![Stars](https://img.shields.io/github/stars/Z-M-Huang/git-doc-mcp?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/git-doc-mcp/stargazers)
 [![Forks](https://img.shields.io/github/forks/Z-M-Huang/git-doc-mcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/git-doc-mcp/network/members)
 [![Issues](https://img.shields.io/github/issues/Z-M-Huang/git-doc-mcp?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/git-doc-mcp/issues)
 
 ### 📜 [golden-CLAUDE.md](https://github.com/Z-M-Huang/golden-CLAUDE.md)
-Golden rules for Claude Code CLAUDE.md
+Golden rules for Claude Code memory files that enforce honesty, verification, and disciplined engineering behavior.
 
 [![Stars](https://img.shields.io/github/stars/Z-M-Huang/golden-CLAUDE.md?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/golden-CLAUDE.md/stargazers)
 [![Forks](https://img.shields.io/github/forks/Z-M-Huang/golden-CLAUDE.md?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/golden-CLAUDE.md/network/members)
 [![Issues](https://img.shields.io/github/issues/Z-M-Huang/golden-CLAUDE.md?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/golden-CLAUDE.md/issues)
 
 ### 🤖 [claude-codex](https://github.com/Z-M-Huang/claude-codex)
-Multi-AI workflow for Claude Code
+Multi-AI workflow patterns for pairing Claude Code with Codex-style review and implementation loops.
 
 [![Stars](https://img.shields.io/github/stars/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=58A6FF)](https://github.com/Z-M-Huang/claude-codex/stargazers)
 [![Forks](https://img.shields.io/github/forks/Z-M-Huang/claude-codex?style=flat-square&logo=github&color=8B949E)](https://github.com/Z-M-Huang/claude-codex/network/members)
@@ -126,6 +146,7 @@ Multi-AI workflow for Claude Code
 - [x] 🎨 Get tattooed
 - [x] 🏍️ Become a motorcycle rider
 - [x] 📚 Start book reading
+- [x] 🏅 Earn Claude Certified Architect, Foundations
 
 ### 🎯 Future Goals
 - [ ] ⛷️ Learn how to ski
@@ -136,7 +157,7 @@ Multi-AI workflow for Claude Code
 ## 🌱 Interests & Hobbies
 
 - 🔬 **Exploring New Technologies** - Always excited to learn and experiment with cutting-edge tools
-- 🤖 **AI & Machine Learning** - Currently deep-diving into AI-assisted development
+- 🤖 **AI Architecture** - Designing production-grade Claude and LLM systems with clear boundaries, evals, and failure modes
 - 🧠 **Emotional Intelligence** - Continuously working on understanding and improving interpersonal skills
 - 💭 **Critical Thinking** - Refining my approach to problem-solving and decision-making
 - 📖 **Reading** - Expanding knowledge through books
@@ -148,7 +169,7 @@ Multi-AI workflow for Claude Code
 
 ### 💬 Let's Connect!
 
-*Open to collaborations, discussions about AI tools, Go development, or just a friendly chat about tech!*
+*Open to collaborations and discussions about AI architecture, Claude systems, Go development, distributed systems, or practical engineering workflows.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zhirong-huang-1a96671a0/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x)](https://x.com/markhuang_ai)
